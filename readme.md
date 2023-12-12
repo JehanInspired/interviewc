@@ -5,7 +5,7 @@ Fork the repo
 Case Study 1 : Task 1 : Provide estimates for the 5 Test Cases provided in the repo (Test Cases.xls) 
              * Explaining your reasoning for your estimates
 
-Case Study 1 : Task 2 : Complete the easy challanges found in src/test/java/EasyChallenge.java
+Case Study 1 : Task 2 : Complete the easy challanges found in ChallengingQuestions.cs
 
 Case Study 2 : Task 1 : Complete the API challenge found in src/test/java/ApiChallenge.java
 
